@@ -7,6 +7,7 @@ public class Triangle implements Shape {
     public Triangle(double width, double height) {
         this.width = width;
         this.height = height;
+        System.out.println("yeah");
     }
 
     public String getName() {
