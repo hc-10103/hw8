@@ -8,6 +8,7 @@ public class Triangle implements Shape {
         this.width = width;
         this.height = height;
         System.out.println("yeah");
+        System.out.println("논리설계 끝!");
     }
 
     public String getName() {
