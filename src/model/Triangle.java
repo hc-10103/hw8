@@ -11,7 +11,7 @@ public class Triangle implements Shape {
 
     public String getName() {
         return "Triangle";
-    }
+    } // 이름 리턴하기
 
     public double getArea() {
         return width * height / 2;
