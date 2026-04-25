@@ -7,7 +7,7 @@ public class Main {
 
         Shape[] shapes = new Shape[5];
 
-        System.out.println(" ");
+        System.out.println("  ");
         for (int i = 0; i < 5; i++) {
             String type = sc.next();
 
