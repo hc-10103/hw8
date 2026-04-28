@@ -11,7 +11,7 @@ public class Main {
         for (int i = 0; i < 5; i++) {
             String type = sc.next();
 
-            if (type.equals("rectangle ")) {
+            if (type.equals("rectangle  ")) {
                 double w = sc.nextDouble();
                 double h = sc.nextDouble();
                 shapes[i] = new Rectangle(w, h);
