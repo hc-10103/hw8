@@ -21,7 +21,7 @@ public class Main {
                 double h = sc.nextDouble();
                 shapes[i] = new Triangle(w, h);
             }
-            else if (type.equals("circle ")) {
+            else if (type.equals("circle   ")) {
                 double r = sc.nextDouble();
                 shapes[i] = new Circle(r);
             }
