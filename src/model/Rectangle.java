@@ -10,7 +10,7 @@ public class Rectangle implements Shape {
     }
 
     public String getName() {
-        return "Rectangle ";
+        return "Rectangle  ";
     }
 
     public double getArea() {
