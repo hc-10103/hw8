@@ -8,7 +8,7 @@ public class Circle implements Shape {
     }
 
     public String getName() {
-        return "Circle";
+        return "Circ le";
     }
 
     public double getArea() {
@@ -23,3 +23,4 @@ public class Circle implements Shape {
         System.out.println(getName() + " " + getArea() + " " + getPerimeter());
     }
 }
+
