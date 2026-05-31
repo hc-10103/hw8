@@ -8,7 +8,7 @@ public class Circle implements Shape {
     }
 
     public String getName() {
-        return "Circ le";
+        return "Circ  le";
     }
 
     public double getArea() {
